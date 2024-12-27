@@ -160,5 +160,5 @@ The code is designed to run on Kaggle, which provides 30 hours of free GPU usage
 ---
 
 ## Model 
-> -[Code](https://drive.google.com/file/d/165qiDl-OMgpDFZn9u6DY69eEaMv_JthT/view?usp=sharing)
+> -[Pytorch File](https://drive.google.com/file/d/165qiDl-OMgpDFZn9u6DY69eEaMv_JthT/view?usp=sharing)
 > -[Test Data](https://drive.google.com/drive/folders/1DwsO-znt3v0sJjwmjKoSAb61wr9ou_rB?usp=drive_link)
