@@ -155,7 +155,10 @@ The code is designed to run on Kaggle, which provides 30 hours of free GPU usage
 > ## Use our GUI
 > - we have a gui file called `gui.py` in the repository, download it along with the `model.pt` file in the same directory
 > - type in the terminal `streamlit run [absolute path to the gui.py file here]`
-> - enjoy the results!
+> - enjoy the results and send give us ur comment!
 
 ---
 
+## Model 
+> -[Code](https://drive.google.com/file/d/165qiDl-OMgpDFZn9u6DY69eEaMv_JthT/view?usp=sharing)
+> -[Test Data](https://drive.google.com/drive/folders/1DwsO-znt3v0sJjwmjKoSAb61wr9ou_rB?usp=drive_link)
