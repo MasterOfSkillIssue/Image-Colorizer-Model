@@ -151,11 +151,11 @@ The code is designed to run on Kaggle, which provides 30 hours of free GPU usage
 
 ---
 
-> [!NOTE] there is a feature!
-> ## Use our GUI
-> - we have a gui file called `gui.py` in the repository, download it along with the `model.pt` file in the same directory
-> - type in the terminal `streamlit run [absolute path to the gui.py file here]`
-> - enjoy the results and send give us ur comment!
+
+ ## Use our GUI
+ - we have a gui file called `gui.py` in the repository, download it along with the `model.pt` file in the same directory
+ - type in the terminal `streamlit run [absolute path to the gui.py file here]`
+ - enjoy the results and send give us your comment [here](https://grayimgcolorizer.streamlit.app/) !
 
 ---
 
